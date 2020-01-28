@@ -18,7 +18,7 @@ import { ErrorInterceptorProvider } from './_services/error.interceptor';
       HomeComponent,
       RegisterComponent
    ],
-   imports: [
+   imports: [ 
       BrowserModule,
       AppRoutingModule,
       HttpClientModule,
